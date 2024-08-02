@@ -1,9 +1,8 @@
-streamlit==1.35.0
-langchain-community==0.2.10
-langchain==0.2.3
-faiss-cpu==1.8.0
-unstructured==0.15.0
-transformers==4.41.2
-sentence-transformers==3.0.1
-json
+streamlit
+langchain-community
+langchain
+faiss-cpu
+unstructured
+transformers
+sentence-transformers
 PyPDF2
