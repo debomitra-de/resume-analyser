@@ -1,0 +1,45 @@
+[
+    {
+      "job_title": "Software Engineer, Machine Learning, Google Assistant",
+      "minimum_qualifications": [
+        "Bachelor’s degree or equivalent practical experience.",
+        "1 year of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).",
+        "1 year of experience with data structures or algorithms."
+      ],
+      "preferred_qualifications": [
+        "Master's degree or PhD in Computer Science or related technical field.",
+        "1 year of experience with machine learning algorithms and tools (e.g., TensorFlow), artificial intelligence, deep learning and/or natural language processing.",
+        "Experience developing accessible technologies."
+      ]
+    },
+    {
+      "job_title": "UX Researcher, Enterprise Data and Engineering",
+      "minimum_qualifications": [
+        "Bachelor's degree in Human-Computer Interaction, Cognitive Science, Statistics, Psychology, Anthropology, related field, or equivalent practical experience.",
+        "4 years of experience in an applied research setting, or similar."
+      ],
+      "preferred_qualifications": [
+        "Master's degree or PhD in Human-Computer Interaction, Cognitive Science, Statistics, Psychology, Anthropology, or related field.",
+        "Experience in Enterprise product, B2B product, workplace solutions, or Enterprise Data.",
+        "Expertise with a range of qualitative and quantitative methodologies and principles of research design." 
+      ]
+    },
+    {
+        "job_title": "Data Analyst",
+        "minimum_qualifications":[
+            "Bachelor's degree or equivalent practical experience.",
+            "2 years of experience in data analytics, Trust & Safety, policy, cybersecurity, or related fields.",
+            "Experience in SQL, building dashboards, data collection and transformation, statistical modeling, visualization and dashboards, or a scripting or programming language (e.g., Python, Java, C++).",
+            "Experience in writing and maintaining ETLs (Extract, Transform, Load) that operate on a range of structured and unstructured sources.",
+            "Experience in leveraging data to derive meaningful insights and actionable recommendations."
+        ],
+        "preferred_qualifications":[
+            "Education in, or experience with, machine learning.",
+            "Experience in SQL, building dashboards, data collection/transformation, visualization/dashboards, or in a scripting/programming language (e.g., Python).",
+            "Excellent communication and presentation skills (written and verbal) and the ability to influence cross-functionally at various levels.",
+            "Excellent problem-solving and critical thinking skills with attention to detail in an ever-changing environment."
+        ]
+    }
+  ]
+
+  
